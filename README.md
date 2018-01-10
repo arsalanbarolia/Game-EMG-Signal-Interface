@@ -9,4 +9,4 @@ Built and designed a circuit interface that amplified an electromyogram (EMG) si
 ![Dimensions-2](Final Game EMG Signal Interface Circuit Design.jpeg)
 
 ## Circuit Schematic of EMG Signal Interface
-![Dimensions-3](Circuit Schematic of EMG Signal Interface)
+![Dimensions-3](Circuit Schematic of EMG Signal Interface.jpg)

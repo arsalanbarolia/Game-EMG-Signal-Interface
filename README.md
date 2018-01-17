@@ -4,7 +4,7 @@ Built and designed a circuit interface that amplified an electromyogram (EMG) si
 
 Contributor: Manas Agarwal
 
-The file above named "    " displays a visual demonstration of how the Game EMG Signal Interface functions. The video can also be viewed on YouTube -> https://www.youtube.com/watch?v=TGAkV-Wh9EQ
+The file above named "Final_EMG_Signal_Interface_Game_Demonstration.mp3" displays a visual demonstration of how the Game EMG Signal Interface functions. The video can also be viewed on YouTube -> https://www.youtube.com/watch?v=TGAkV-Wh9EQ
 
 --- 
 

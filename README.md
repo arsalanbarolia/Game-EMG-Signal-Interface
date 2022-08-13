@@ -2,8 +2,12 @@
 
 # Muscle Powered Flappy Bird
 
-![Project Image](images/flappybird.JPG)
-<img src="images/emg.jpg" width="362" height="453" />
+<p align="center">
+    <img src="images/flappybird.JPG" width="400" height="460" />
+    <img src="images/EMG.jpg" width="400" height="460" />
+</p>
+<!-- ![Project Image](images/flappybird.JPG)
+<img src="images/EMG.jpg" width="362" height="453" /> -->
 
 > Controlling the input of the birds jump by flexing the muscles in your wrist.
 
@@ -30,7 +34,7 @@ When Flappy Bird was first released, it was so popular the creator removed it fr
 ## Demo
 
 <p align="center">
- <img  width="800" src= "flappybirddemo.gif" alt="Demonstration of the Muscle Powered Flappy Bird">
+ <img  width="800" src= "images/flappybirddemo.gif" alt="Demonstration of the Muscle Powered Flappy Bird">
 </p>
 
 The demonstartion clip can also be viewed on Youtube by clicking [here.](https://www.youtube.com/watch?v=TGAkV-Wh9EQ)
@@ -42,15 +46,15 @@ The demonstartion clip can also be viewed on Youtube by clicking [here.](https:/
 ## Design and Wiring
 
 <p align="center">
- <img height= "600" src="circuit-schematic-design.jpg" alt="Circuit Schematic Design">
+ <img height= "600" src="images/circuit-schematic-design.jpg" alt="Circuit Schematic Design">
 </p>
 
 <p align="center">
- <img height = "600" width="460" src="prototype.jpeg" alt="Prototype Game EMG Singal Interface Circuit Design">
+ <img height = "600" width="460" src="images/prototype.jpeg" alt="Prototype Game EMG Singal Interface Circuit Design">
 </p>
 
 <p align="center">
- <img  src="finalproduct.jpeg" alt="Final Game EMG Signal Interface Circuit Design">
+ <img  src="images/finalproduct.jpeg" alt="Final Game EMG Signal Interface Circuit Design">
 </p>
 
 [Back To The Top](#project)

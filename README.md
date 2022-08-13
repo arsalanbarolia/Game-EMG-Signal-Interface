@@ -8,7 +8,7 @@ The file above named "Final_EMG_Signal_Interface_Game_Demonstration.mp3" display
 
 --- 
 
-<p align="center">
+<p Prototype Game EMG Singal Interface Circuit Design align="center">
   <img src="Prototype_Game_EMG_Singal_Interface_Circuit_Design.jpeg" alt="Material Bread logo">
 </p>
 

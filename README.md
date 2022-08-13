@@ -7,8 +7,8 @@ Contributor: Manas Agarwal
 The file above named "Final_EMG_Signal_Interface_Game_Demonstration.mp3" displays a visual demonstration of how the Game EMG Signal Interface functions. The video can also be viewed on YouTube -> https://www.youtube.com/watch?v=TGAkV-Wh9EQ
 
 --- 
-
-<p> Prototype Game EMG Singal Interface Circuit Design align="center"
+## Prototype Game EMG Singal Interface Circuit Design
+<p align="center">
   <img src="Prototype_Game_EMG_Singal_Interface_Circuit_Design.jpeg" alt="Material Bread logo">
   </p>
 

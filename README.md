@@ -23,6 +23,7 @@ The file above named "Final_EMG_Signal_Interface_Game_Demonstration.mp3" display
 
 
 ---
-
 ## Circuit Schematic of EMG Signal Interface
-![Circuit_Schematic_of_EMG_Signal_Interface.jpg](Circuit_Schematic_of_EMG_Signal_Interface.jpg)
+<p align="center">
+  <img src="Circuit_Schematic_of_EMG_Signal_Interface.jpg">
+  </p>

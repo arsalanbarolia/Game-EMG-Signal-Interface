@@ -2,7 +2,7 @@
 
 # Muscle Powered Flappy Bird
 
-![Project Image](/images/flappybird.jpg)
+![Project Image](Game_EMG_Signal_Interface/Game EMG Signal Interface/images/flappybird.JPG)
 <img src=".images/emg.jpg" width="362" height="453" />
 
 > Controlling the input of the birds jump by flexing the muscles in your wrist.

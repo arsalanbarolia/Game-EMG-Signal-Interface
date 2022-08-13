@@ -12,13 +12,15 @@ The file above named "Final_EMG_Signal_Interface_Game_Demonstration.mp3" display
   <img src="Prototype_Game_EMG_Singal_Interface_Circuit_Design.jpeg" alt="Material Bread logo">
   </p>
 
-## Prototype Game EMG Singal Interface Circuit Design
-<img ![Dimensions-1](Prototype_Game_EMG_Singal_Interface_Circuit_Design.jpeg)
+
 
 ---
 
 ## Final Game EMG Signal Interface Circuit Design
-![Final Game EMG Signal Interface Circuit Design.jpeg](Final_Game_EMG_Signal_Interface_Circuit_Design.jpeg)
+<p align="center">
+  <img src="Final_Game_EMG_Signal_Interface_Circuit_Design.jpeg">
+  </p>
+
 
 ---
 

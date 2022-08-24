@@ -25,7 +25,7 @@
 
 ## Description
 
-When Flappy Bird was first released, it was so popular the creator removed it from the appstores to avoid unwanted publicity. Thus, we built and re-designed the game such that it has a circuit interface that amplifies an electromyogram (EMG) signal. This signal is recieved each time the subject flexes thier muscle and used as an input to make the bird navigate through the pipes.
+When Flappy Bird was first released, it was so popular the creator removed it from the appstore’s to avoid unwanted publicity. Thus, we built and re-designed the game such that it has a circuit interface that amplifies an electromyogram (EMG) signal. This signal is received each time the subject flexes their muscle and used as an input to make the bird navigate through the pipes.
 
 [Back To The Top](#project)
 
